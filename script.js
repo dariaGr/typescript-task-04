@@ -7,6 +7,7 @@ getData(COMMENTS_URL).then(function (data) {
         console.log("ID: ".concat(item.id, ", Email: ").concat(item.email));
     });
 });
+//
 /**
  * ID: 1, Email: Eliseo...
  * ID: 2, Email: Jayne_Kuhic...
